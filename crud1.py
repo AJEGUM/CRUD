@@ -5,7 +5,8 @@ from tkinter import messagebox
 from usuarios import *
 from crudMySQL import *
 
-
+#Creacion de CRUD con Python y MySQL
+#Creditos a (Sin Rueda Tecnologica)
 
 class clientes:
 
